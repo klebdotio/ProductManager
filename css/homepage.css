@@ -1,3 +1,15 @@
 body {
     background-color: dimgray;
 }
+
+h1 h2 h3 p {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.APN.input {
+    width: 100px;
+}
+
+.header {
+    align-items: center;
+}

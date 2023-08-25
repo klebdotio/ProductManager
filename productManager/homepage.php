@@ -4,8 +4,8 @@
         <link rel="stylesheet" href="css/homepage.css">
     </head>
     <body>
-        <h1>Product Manager</h1>
-        <h2>v1.0.0.0</h2>
+        <?php include("productManager/header.php"); ?>
+        <h2>Your Store Here</h2>
         <div>
             <h3>
                 
