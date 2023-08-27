@@ -1,7 +1,6 @@
 <!DOCTYPE html>
 <html>
     <head>
-        <link rel="stylesheet" href="../css/homepage.css">
     </head>
     <body>
         <?php include("productManager/header.php"); ?>
@@ -14,11 +13,9 @@
             <p>Product Expiry Date: </p>
             <input type="text">
         </div>
-        <div>
-            <p>Send information to database</p>
-        </div>
-        <div>
-            <a href="index.php">Return to homepage</a>
+        <div class="buttons">
+            <h3 class="buttons">Send to Database</h3>
+            <a href="index.php"><h3 class="exit">Return to homepage</h3></a>
         </div>
     </body>
 </html>
